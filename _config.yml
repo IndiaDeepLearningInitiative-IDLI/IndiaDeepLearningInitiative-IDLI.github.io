@@ -1,0 +1,24 @@
+# Site Settings
+title:               IDLI
+tagline:             Deep Learning
+description:
+baseurl:            #"/Lagrange"
+url:                #"https://lenpaul.github.io"
+github:
+  url:               "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI/"
+author:
+  name:              "IDLI"
+  email:             ""
+  twitter:           "IDLI"
+  instagram:         "IDLI"
+  github:            "IDLI"
+  facebook:          "IDLI"
+  linkedin:          "IDLI"
+paginate:            5
+
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
