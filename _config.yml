@@ -5,15 +5,14 @@ description:
 baseurl:            "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
 url:                "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
 github:
-  url:               "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io "
+url:               "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io "
 author:              "IDLI"
-  name:              "IDLI"
-  email:             ""
-  twitter:           "IDLI"
-  instagram:         "IDLI"
-  github:            "IDLI"
-  facebook:          "IDLI"
-  linkedin:          "IDLI"
+name:              "IDLI"
+email:             ""
+twitter:           "IDLI"
+instagram:         "IDLI"
+facebook:          "IDLI"
+linkedin:          "IDLI"
 paginate:            5
 
 
@@ -21,4 +20,4 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-gems:                [jekyll-paginate]
+gems: [jekyll-paginate]
