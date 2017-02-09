@@ -1,5 +1,5 @@
-# Lagrange
+# IDLI
 
-Welcome to IDLI - India Deep learning Initiative.
+DLI-Indian Deep Learning Initiative. The main objective of this group is to promote deep learning (DL) and machine learning (ML) for AI, in India.
 
-![alt text](https://cloud.githubusercontent.com/assets/8409329/21747617/7ef0e18e-d53a-11e6-8f90-8bb14b62ba20.jpg "IDLI theme")
+![alt text]( https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io/blob/master/images/deeplearning.jpg "IDLI theme")
