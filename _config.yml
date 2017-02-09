@@ -2,8 +2,8 @@
 title:               IDLI
 tagline:             Deep Learning
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            #"https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
+url:                "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
 github:
   url:               "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
 author:
