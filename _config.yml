@@ -14,7 +14,7 @@ instagram:         "IDLI"
 facebook:          "IDLI"
 linkedin:          "IDLI"
 paginate:            5
-
+disqus:            digitaldrummerj
 
 # Build settings
 markdown:            kramdown
