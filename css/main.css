@@ -444,38 +444,3 @@ pre {
 	color: black;
 }
 
-
- /* Dropdown Button */
-.dropbtn {
-    font-size: 14px;
-    border: none;
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-    padding: 12px 16px;
-    text-decoration: none;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-}
