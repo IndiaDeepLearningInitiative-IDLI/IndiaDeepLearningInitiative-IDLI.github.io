@@ -238,11 +238,7 @@ blockquote p {
   display: block;
 }
 
-.menu-content {
-  float: left;
-}
-
-.menu-content a {
+.menu a {
   color: #999;
   font-size: 1rem;
 }
@@ -250,7 +246,6 @@ blockquote p {
 ul.menu li{
     float: left;
     list-style-type:none;
-    width: 125px;
 }
 li.sub1 ul{
     display: none;
