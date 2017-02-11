@@ -248,10 +248,11 @@ ul.menu li{
     list-style-type:none;
 }
 li.sub1 ul{
-    display: none;
+        display: none;
 }
 ul.menu li.sub1:hover ul{
     display: block;
+    width: 125px;
 }
 
 .social-icons {
