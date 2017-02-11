@@ -279,7 +279,7 @@ li.menu {
 
 }
 ul.menu ul.menu {
-    position: absolute
+   position: absolute;
     display: none;
 }
 li.menu:hover ul.menu {
