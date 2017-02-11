@@ -232,7 +232,6 @@ blockquote p {
 
 /*
   Menu
-*/
 .menu {
   padding-top: 0.5rem;
   display: block;
@@ -257,6 +256,33 @@ ul.menu li.sub1:hover ul{
 
 .social-icons {
   float: right;
+}
+*/
+.menu {
+  padding-top: 0.5rem;
+  display: block;
+}
+
+.menu a {
+  color: #999;
+  font-size: 1rem;
+}
+
+ul.menu {
+    padding: 0;
+    margin: 0;
+}
+
+li.menu {
+    display: inline;
+    position: relative;
+}
+ul.menu ul.menu {
+    position: absolute;
+    display: none;
+}
+li.menu:hover ul.menu {
+    display: block;
 }
 
 .social-icons a {
