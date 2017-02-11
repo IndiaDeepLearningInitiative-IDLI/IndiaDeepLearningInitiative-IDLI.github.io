@@ -275,7 +275,7 @@ ul.menu {
 
 li.menu {
     display: inline;
-    position: absolute;
+    position: relative;
 
 }
 ul.menu ul.menu {
