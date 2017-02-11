@@ -233,16 +233,30 @@ blockquote p {
 /*
   Menu
 */
+.menu {
+  padding-top: 0.5rem;
+  display: block;
+}
 
-ul#menu li{
+.menu-content {
+  float: left;
+}
+
+.menu-content a {
+  color: #999;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+ul.menu li{
     float: left;
     list-style-type:none;
     width: 125px;
 }
-li#sub1 ul{
+li.sub1 ul{
     display: none;
 }
-ul#menu li#sub1:hover ul{
+ul.menu li.sub1:hover ul{
     display: block;
 }
 
