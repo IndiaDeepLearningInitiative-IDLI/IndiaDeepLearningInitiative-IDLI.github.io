@@ -443,4 +443,15 @@ pre {
 .fa-codepen:hover {
 	color: black;
 }
-
+/* Drop down menu style*/
+ul.menu li{
+    float: left;
+    list-style-type:none;
+    width: 100px;
+}
+li.sub1 ul{
+    display: none;
+}
+ul.menu li.sub1:hover ul{
+    display: block;
+}
