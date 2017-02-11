@@ -251,7 +251,6 @@ blockquote p {
 ul.menu li{
     float: left;
     list-style-type:none;
-    width: 50px;
 }
 li.sub1 ul{
     display: none;
