@@ -15,32 +15,6 @@ title: Blog
   </p>
   {% endfor %}
 </ul>
-
-
-{% for post in paginator.posts %}
-<div class="posts">
-  <h1>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </h1>
-  
-</div>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-    <span class="pagination-button">Older</span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
-    {% else %}
-      <span class="pagination-button">Newer</span>
-  {% endif %}
-
-</div>
 <div id="disqus_thread"></div>
 <script>
 /**
