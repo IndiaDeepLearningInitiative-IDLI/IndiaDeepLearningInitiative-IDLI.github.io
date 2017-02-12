@@ -1,33 +1,18 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Welcome to IDLI"
 categories: journal
 tags: [documentation,sample]
-image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
-  credit: Death to Stock Photo
-  creditlink: ""
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+IDLI - India Deep Learning Intiative
 
 ### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
+[Website]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): You can find many things about IDLI their.
 ### Using Lagrange
 
-[Working With Jekyll]({{ site.github.url }}{% post_url 2015-11-11-Working-With-Jekyll %}): this post will acquaint you with how to use Jekyll to create your own site.
+[DEEP LEARNING]({{ https://en.wikipedia.org/wiki/Deep_learning }}{% post_url 2015-11-11-Working-With-Jekyll %}): Deep learning (also known as deep structured learning, hierarchical learning or deep machine learning) is a branch of machine learning based on a set of algorithms that attempt to model high level abstractions in data. In a simple case, there might be two sets of neurons: ones that receive an input signal and ones that send an output signal. When the input layer receives an input it passes on a modified version of the input to the next layer. In a deep network, there are many layers between the input and output (and the layers are not made of neurons but it can help to think of it that way), allowing the algorithm to use multiple processing layers, composed of multiple linear and non-linear transformations.
 
-[Working With Lagrange]({{ site.github.url }}{% post_url 2015-10-10-Working-With-Lagrange %}): this post will acquaint you with how to use Jekyll to create your own site.
+[MACHINE LEARNING]({{ https://en.wikipedia.org/wiki/Machine_learning }}{% post_url 2015-10-10-Working-With-Lagrange %}): Machine learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed (Arthur Samuel, 1959).[1] Evolved from the study of pattern recognition and computational learning theory in artificial intelligence,[2] machine learning explores the study and construction of algorithms that can learn from and make predictions on data[3] – such algorithms overcome following strictly static program instructions by making data driven predictions or decisions,[4]:2 through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms is infeasible; example applications include spam filtering, detection of network intruders or malicious insiders working towards a data breach,[5] optical character recognition (OCR),[6] search engines and computer vision.
 
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2015-09-09-Text-Formatting %})
-
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2015-08-08-Math-and-Code-Formatting %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
