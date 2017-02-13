@@ -23,6 +23,7 @@ permalink:           none
 gems: [jekyll-paginate]
 
 collections:
-  jobs:_jobs
-    
+   jobs:
+     output: true
+     permalink: /jobs/
     
