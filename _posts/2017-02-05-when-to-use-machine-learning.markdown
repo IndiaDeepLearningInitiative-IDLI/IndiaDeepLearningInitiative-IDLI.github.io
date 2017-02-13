@@ -47,4 +47,4 @@ A machine learning model "projects past on future" to “learn” whether I will
 
 Do you see? Machine learning rocks. This story is perfect for a supervised classification problem.
 
-## By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
+#### By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
