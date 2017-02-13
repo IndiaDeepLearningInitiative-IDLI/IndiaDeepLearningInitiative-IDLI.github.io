@@ -26,4 +26,38 @@ collections:
    jobs:
      output: true
      permalink: /jobs/
+   internship:
+     output: true
+     permalink: /internship/
+   tutorial:
+     output: true
+     permalink: /tutorial/
+   interview:
+     output: true
+     permalink: /interview/
+   dataset:
+     output: true
+     permalink: /dataset/
+   framework:
+     output: true
+     permalink: /framework/
+   papers:
+     output: true
+     permalink: /papers/
+   challenges:
+     output: true
+     permalink: /challenges/
+   session:
+     output: true
+     permalink: /session/
+   hackthaone:
+     output: true
+     permalink: /hackthaone/
+
+
+
+
+
+
+
     
