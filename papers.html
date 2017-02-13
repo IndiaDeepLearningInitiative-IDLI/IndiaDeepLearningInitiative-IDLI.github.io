@@ -6,18 +6,16 @@ title: Papers
   <h1 style="text-align: center;">You can find top research paper here! </h1>
   <br>
 </div>
-<div>
-  <h1>Deep Learning papers: </h1>
-  <h3>1 : Paper 1</h3>
-  <p style="text-align: justify;">If you want add paper or suggetion for papers, Please go to : <a href="{{ site.github.url }}/help.html">You can help us!</a></p>
-  <br>
-</div>
-<div>
-  <h1>Machine Learning papers:</h1>
-  <h3>1: Paper 1</h3>
-  <p style="text-align: justify;">If you want add paper or suggetion for papers, Please go to : <a href="{{ site.github.url }}/help.html">You can help us!</a></p>
-  <br>
-</div>
+{% for papers in site.papers %}
+  <li>
+    <span> {{ papers.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ papers.url }}">{{ papers.title }}</a>
+  </li>
+  <p>
+    {{ papers.content | strip_html | truncate: 350 }} <a href="{{ papers.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ papers.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"><br><br><br></div>
 <script>
 /**
