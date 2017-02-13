@@ -86,4 +86,4 @@ Gokul Krishnan wrote a really good blog on [Anatomy of Deep Learning Frameworks]
 
 I used twitter recommendation engine (learning machine learning using machine learning) to keep myself updated with latest research papers. Check whom i am following , on my [Twitter](https://twitter.com/malai_san)
 
-## By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
+#### By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
