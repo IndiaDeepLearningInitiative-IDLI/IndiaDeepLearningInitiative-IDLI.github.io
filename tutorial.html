@@ -3,12 +3,17 @@ layout: default
 title: Tutorial
 ---
 <div>
-<h1>Machine Learning Tutorial list:</h1>
-<h5 text-align: justify-all> Machine learning is tutorial 1..........</h5>
-</div>
-<div>
-  <h1> Deep Learning Tutorial list:</h1>
-<h5 text-align:justify-all>Deep learning tutorial 1................... </h5>
+<h1>Tutorial list:</h1>
+{% for tutorial in site.tutorial %}
+  <li>
+    <span> {{ tutorial.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ tutorial.url }}">{{ tutorial.title }}</a>
+  </li>
+  <p>
+    {{ tutorial.content | strip_html | truncate: 350 }} <a href="{{ tutorial.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ tutorial.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <br><br><br>
 </div>
 <div id="disqus_thread"></div>
