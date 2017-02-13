@@ -46,3 +46,5 @@ If I do this deterministically, then I will end up with lot of "If" conditions f
 A machine learning model "projects past on future" to “learn” whether I will run outside or not. With historical data of my running (Map my run, Garmin, Fitbit, Apple Watch) + publicly available weather data, I can train a machine learning model (classification problem) to decide whether I want to run or not. A set of machine learning algorithms will approximate a decision boundary for this problem. Output from the machine learning algorithm is probability for 2 classes: a) run or b) don’t run.
 
 Do you see? Machine learning rocks. This story is perfect for a supervised classification problem.
+
+## By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
