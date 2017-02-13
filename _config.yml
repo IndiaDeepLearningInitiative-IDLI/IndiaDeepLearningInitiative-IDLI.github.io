@@ -21,3 +21,8 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 gems: [jekyll-paginate]
+
+collections:
+  jobs:_jobs
+    output:true
+    
