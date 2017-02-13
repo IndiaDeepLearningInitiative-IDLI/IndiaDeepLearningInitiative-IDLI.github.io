@@ -13,6 +13,12 @@ title: Opportunity
   <a href="http://www.xrci.xerox.com/xrci-internship">Apply now!</a>
   <br>
 </div>
+{% for jobs in site.jobs %}
+<div>
+  <h2>{{ jobs.title }}</h2>
+  {{ jobs.content }}
+</div>
+{% endfor %}
 <div>
   <h1>Job:</h1>
   <h3>Comming Soon...</h3>
