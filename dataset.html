@@ -6,19 +6,16 @@ title: Dataset
   <h1>Data what you need for research! </h1>
   <br>
 </div>
-<div>
-  <h2> Self-driving car dataset: </h2>
-  <h4>1: Udacity Self Driving Car Dataset 3-1: El Camino</h4>
-  <p style="text-align:justify;">Dataset of two drives from the Udacity office to San Francisco up (and down) El Camino Real, the path of the final drive and where the test sets of Challenges 2 & 3 will take place. Sunny afternoon and evening drives, an attempt was made to stay in the same lane, but obstacles and construction sometimes required lane changes. While this is an official dataset for Challenge 3, it has all required information to be used in Challenge 2. Note, only the center camera feed will be available in the test set. Also, this dataset includes Velodyne VLP-16 LIDAR packets. This is so that you may see the format of the LIDAR we will be publishing, but it is not useful (or allowed) in Challenges 2&3.</p>
-  <a href="http://academictorrents.com/details/c9dae89d2e3897e6aa98c0c8196348c444998a2a">Download this dataset here!</a>
-</div>
-<div>
-  <h2>Image database: </h2>
-  <h4>1:  Google Open Images</h4>
-  <p style="text-align:justify;">Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories. This is train and validation part of dataset. All images resized to 420 on small side. The name of the saved image corresponds to Google's ImageID which can be used to look up labels in the open image dataset.</p>
-  <a href="http://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b">Download this dataset here!</a>
-<br><br><br>
-</div>
+{% for dataset in site.dataset %}
+  <li>
+    <span> {{ dataset.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ dataset.url }}">{{ dataset.title }}</a>
+  </li>
+  <p>
+    {{ dataset.content | strip_html | truncate: 350 }} <a href="{{ dataset.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ dataset.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"></div>
 <script>
 /**
