@@ -154,4 +154,4 @@ Thanks to [Arthur Chan](https://www.linkedin.com/in/arthchan2003) for suggesting
 - [Prof Ali Ghodsi Word2vec talk](https://www.youtube.com/watch?v=TsEGsdVJjuA)
 - [Sagar vinodababu Word2vec Reddit code](https://github.com/sgrvinod/Word2Vec-on-Reddit-s-Politics-Subreddit-Jan-Apr-2016-)
 
-## By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
+#### By Malaikannan Sankarasubbu: [Click here for more information](http://malaikannan.io/)
