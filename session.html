@@ -11,22 +11,16 @@ title: Online Session
   <p style="text-align:justify;">Check out next Deep Learning sessions and Speakers. Check out the below sheet for more detail.</p>
   <iframe width=600 height=500 src="https://docs.google.com/spreadsheets/d/16M6Ed8Usm25kvMXfPkH15ngT15nKh8X_D0WOJl7i_vs/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
-<div>
-  <h1>Deep Learning sessions: </h1>
-  <br>
-  <h3>Title: Overview of Deep Learning(DL)</h3>
-  <p>Speaker: <strong>Dr. Jacob Minz</strong> - <a href="https://www.linkedin.com/in/jacob-minz-16762a3/">Know more about him here!</a><br>Publish on: 10-Feb-2017</p>
-  <p style="text-align: justify;"><br>What is deep learning?, How it works?, What is the opportunity in deep learning?, What is basic algorithm? What must I know about it?</p>
-  <p style="text-align: justify;">If you have all these questions, than you will get all these answers in session.</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LWTm-qtOG9E" frameborder="0" allowfullscreen></iframe>
-  <br>
-</div>
-<div>
-  <h1>Machine Learning sessions: </h1>
-  <br>
-  <br>
-  <h5>If you want to put online session, Please go to : <a href="{{ site.github.url }}/help.html"> You can help us!</a></h5>
-</div>
+{% for session in site.session %}
+  <li>
+    <span> {{ session.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ session.url }}">{{ session.title }}</a>
+  </li>
+  <p>
+    {{ session.content | strip_html | truncate: 350 }} <a href="{{ session.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ session.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <hr>
 <div id="disqus_thread"><br><br><br></div>
 <script>
