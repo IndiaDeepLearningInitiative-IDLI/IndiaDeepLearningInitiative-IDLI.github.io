@@ -8,11 +8,17 @@ title: Internship
 </div>
 <div>
   <h1>Internship: </h1>
-  <h3>1 : Big Data analysis and visualization based on data from real life applications</h3>
-  <p style="text-align: justify;">XRCI offers internship opportunities throughout the year but a structured summer program is run during May – August every year.  At present, we have opportunities for students in Computer Science, Electronics & Electrical Engineering, Humanities, Social Science and other relevant disciplines. XRCI accept applications from students at various levels in their academic life, from Undergraduate to Ph.D. candidates and from best universities across the globe.</p>
-  <a href="http://www.xrci.xerox.com/xrci-internship">Apply now!</a>
-  <br>
 </div>
+{% for internship in site.internship %}
+  <li>
+    <span> {{ internship.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ internship.url }}">{{ internship.title }}</a>
+  </li>
+  <p>
+    {{ internship.content | strip_html | truncate: 350 }} <a href="{{ internship.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ internship.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"><br><br><br></div>
 <script>
 /**
