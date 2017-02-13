@@ -4,15 +4,17 @@ title: challenges
 ---
 <div>
   <h1 style="text-align: center;">Challenges </h1>
-  <p style="text-align: justify;">1: Fake news: <a href="http://www.fakenewschallenge.org/"> To know more: click here!</a> </p>
-  <p style="text-align: justify;">2: Data Science bowl - 2017: <a href="https://www.kaggle.com/c/data-science-bowl-2017"> To know more: click here!</a> </p>
 </div>
-<div>
-  <br>
-  <h1 style="text-align: center;">Trend</h1>
-  <p style="text-align: justify;">Comming soon...</p>
-  <br><br><br>
-</div>
+{% for challenges in site.challenges %}
+  <li>
+    <span> {{ challenges.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ challenges.url }}">{{ challenges.title }}</a>
+  </li>
+  <p>
+    {{ challenges.content | strip_html | truncate: 350 }} <a href="{{ challenges.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ challenges.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"></div>
 <script>
 /**
