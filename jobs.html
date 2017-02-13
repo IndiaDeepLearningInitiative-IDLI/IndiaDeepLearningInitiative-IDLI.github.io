@@ -7,15 +7,9 @@ title: Jobs
   <br>
 </div>
 {% for jobs in site.jobs %}
-<div>
-  <h2>{{ jobs.title }}</h2>
-  {{ jobs.content }}
-</div>
-{% endfor %}
-{% for jobs in site.jobs %}
   <li>
     <span> {{ jobs.date | date: "%B %e, %Y" }} </span>
-      <a href="{{ jobs.url }}">{{ post.title }}</a>
+      <a href="{{ jobs.url }}">{{ jobs.title }}</a>
   </li>
   <p>
     {{ jobs.content | strip_html | truncate: 350 }} <a href="{{ jobs.url }}">Read more</a>
