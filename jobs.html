@@ -6,6 +6,12 @@ title: Jobs
   <h1 style="text-align: center;">Need job or Internship: all is here! </h1>
   <br>
 </div>
+{% for jobs in site.jobs %}
+<div>
+  <h2>{{ jobs.title }}</h2>
+  {{ jobs.content }}
+</div>
+{% endfor %}
 <div>
   <h1>Job:</h1>
   <h3>Comming Soon...</h3>
