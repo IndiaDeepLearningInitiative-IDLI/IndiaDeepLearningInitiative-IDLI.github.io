@@ -5,9 +5,17 @@ title: Interview
 <div>
   <h1 text-align: justify-all>Interviews you don't want to miss!</h1>
   <br>
-  <h4> 1: Why should you care about deep learning? -- By Andrew Ng</h4>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O0VN0pGgBZM" frameborder="0" allowfullscreen></iframe>
 </div>
+{% for interview in site.interview %}
+  <li>
+    <span> {{ interview.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ interview.url }}">{{ interview.title }}</a>
+  </li>
+  <p>
+    {{ interview.content | strip_html | truncate: 350 }} <a href="{{ interview.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ interview.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"><br><br><br></div>
 <script>
 /**
