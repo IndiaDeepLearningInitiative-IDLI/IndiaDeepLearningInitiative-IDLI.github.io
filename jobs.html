@@ -12,6 +12,16 @@ title: Jobs
   {{ jobs.content }}
 </div>
 {% endfor %}
+{% for jobs in site.jobs %}
+  <li>
+    <span> {{ jobs.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ jobs.url }}">{{ post.title }}</a>
+  </li>
+  <p>
+    {{ jobs.content | strip_html | truncate: 350 }} <a href="{{ jobs.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ jobs.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
 <div id="disqus_thread"><br><br><br></div>
 <script>
 /**
