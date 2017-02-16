@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: datasetlayout
 title: Udacity Dataset 2-3 Compressed
 ---
 
