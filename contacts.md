@@ -3,4 +3,5 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+[Email us on :](indiadeeplearning.group@gmail.com)
+[Facebook page :](https://www.facebook.com/groups/1479309132086977/)
