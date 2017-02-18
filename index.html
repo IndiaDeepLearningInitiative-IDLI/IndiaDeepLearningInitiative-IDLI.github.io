@@ -20,10 +20,10 @@ title: Home
   <h5 style="text-align: justify-all;">Our Moto is: IDLI-Indian Deep Learning Initiative. The main objective of this group is to promote deep learning (DL) and machine learning (ML) for AI, in India.</h5>
   <hr>
   <div>
-    {% for dataset in site.dataset %}
+    {% for session in site.session %}
   <li>
-    <span> {{ dataset.date | date: "%B %e, %Y" }} </span>
-      <a href="{{ dataset.url }}">{{ dataset.title }}</a>
+    <span> {{ session.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ session.url }}">{{ session.title }}</a>
   </li>
 {% endfor %}
   </div>
