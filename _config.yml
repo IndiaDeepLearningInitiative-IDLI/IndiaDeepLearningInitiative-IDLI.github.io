@@ -37,7 +37,7 @@ collections:
      permalink: /interview/
    dataset:
      output: true
-     permalink: /dataset/
+     permalink: /dataset/:path/
    framework:
      output: true
      permalink: /framework/
@@ -49,10 +49,10 @@ collections:
      permalink: /challenges/
    session:
      output: true
-     permalink: /session/
+     permalink: /session/:path/
    hackthaone:
      output: true
-     permalink: /hackthaone/
+     permalink: /hackthaone/:path/
 
 
 
