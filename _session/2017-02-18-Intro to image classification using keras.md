@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: session
 title: Introduction to Image Classification using Keras - By Malaikannan Sankarasubbu
 ---
 
