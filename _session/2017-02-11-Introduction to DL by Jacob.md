@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: post
 title: Introduction to Deep Learning - By Dr. Jacob Minz
 ---
 
