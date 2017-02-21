@@ -25,28 +25,28 @@ gems: [jekyll-paginate]
 collections:
    jobs:
      output: true
-     permalink: /jobs/
+     permalink: /jobs/:path/
    internship:
      output: true
-     permalink: /internship/
+     permalink: /internship/:path/
    tutorial:
      output: true
-     permalink: /tutorial/
+     permalink: /tutorial/:path/
    interview:
      output: true
-     permalink: /interview/
+     permalink: /interview/:path/
    dataset:
      output: true
      permalink: /dataset/:path/
    framework:
      output: true
-     permalink: /framework/
+     permalink: /framework/:path/
    papers:
      output: true
-     permalink: /papers/
+     permalink: /papers/:path/
    challenges:
      output: true
-     permalink: /challenges/
+     permalink: /challenges/:path/
    session:
      output: true
      permalink: /session/:path/
