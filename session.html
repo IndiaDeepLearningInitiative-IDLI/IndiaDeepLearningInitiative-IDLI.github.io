@@ -16,11 +16,9 @@ title: Session
 <br>
 {% for session in site.session %}
   <li>
-    <span> {{ session.date | date: "%B %e, %Y" }} </span>
       <a href="{{ session.url }}">{{ session.title }}</a>
   </li>
   <p>
-    {{ session.content}}
     
   </p>
 {% endfor %}
