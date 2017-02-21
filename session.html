@@ -20,7 +20,7 @@ title: Session
       <a href="{{ session.url }}">{{ session.title }}</a>
   </li>
   <p>
-    {{ session.content | strip_html | truncate: 350 }} <a href="{{ session.url }}">Read more</a>
-    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ session.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+    {{ session.content}}
+    
   </p>
 {% endfor %}
