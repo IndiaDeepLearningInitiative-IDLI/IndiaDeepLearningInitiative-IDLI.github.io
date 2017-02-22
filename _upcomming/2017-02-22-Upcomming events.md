@@ -1,6 +1,6 @@
 ---
 layout: post
-title: upcomming event
+title: upcoming event
 ---
 
 #### GoogleNet Overview Advance By Auro Tripathy on 25th-Feb-2017
