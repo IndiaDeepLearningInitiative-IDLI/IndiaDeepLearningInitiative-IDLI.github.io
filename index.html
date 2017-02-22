@@ -19,16 +19,17 @@ title: Home
   <h2 style="text-align: center;">India Deep Learning Initiative</h2>
   <h5 style="text-align: justify-all;">Our Moto is: IDLI-Indian Deep Learning Initiative. The main objective of this group is to promote deep learning (DL) and machine learning (ML) for AI, in India.</h5>
   <hr>
-  <div>
-    {% for session in site.session %}
-  <li>
-    <span> {{ session.date | date: "%B %e, %Y" }} </span>
-      <a href="{{ session.url }}">{{ session.title }}</a>
-  </li>
-{% endfor %}
-  </div>
+
   <div>
     <h3>News! : Next online-session</h3>
-    <p style="text-algn:justify;">Check out next Deep Learning sessions and Speakers.There are many topics...<a href="{{ site.github.url }}/session.html">Find out more: Here!</a></p>
+     {% for upcomming in site.upcomming %}
+     <li>
+        <a href="{{ upcomming.url }}">{{ upcomming.title }}</a>
+     </li>
+      <p>
+           {{ upcomming.content | strip_html | truncate: 150 }} <a href="{{ upcomming.url }}">Read more</a>
+          <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ upcomming.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      </p>
+    {% endfor %}
   </div>
   <a href="#">Start now!</a>
