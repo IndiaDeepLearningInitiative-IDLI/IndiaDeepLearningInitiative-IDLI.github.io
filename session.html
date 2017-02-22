@@ -14,6 +14,18 @@ title: Session
 </div>
 <br>
 <br>
+<div>
+  {% for upcomming in site.upcomming %}
+  <li>
+      <a href="{{ upcomming.url }}">{{ upcomming.title }}</a>
+  </li>
+  <p>
+    {{ upcomming.content | strip_html | truncate: 350 }} <a href="{{ upcomming.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ upcomming.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
+</div>
+
 {% for session in site.session %}
   <li>
     <span> {{ session.date | date: "%B %e, %Y" }} </span>
