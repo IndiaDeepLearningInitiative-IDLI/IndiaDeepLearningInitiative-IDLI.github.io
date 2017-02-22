@@ -53,6 +53,9 @@ collections:
    hackthaone:
      output: true
      permalink: /hackthaone/:path/
+   upcomming:
+     output: true
+     permalink: /upcomming/:path/ 
 
 
 
