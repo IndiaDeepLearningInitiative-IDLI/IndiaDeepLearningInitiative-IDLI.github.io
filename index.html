@@ -18,7 +18,7 @@ title: Home
      <li>
         <a href="{{ upcomming.url }}">{{ upcomming.title }}</a>
      </li>
-      <p>
+      <p style="text-align: justify;">
            {{ upcomming.content | strip_html | truncate: 150 }} <a href="{{ upcomming.url }}">Read more</a>
           <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ upcomming.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
       </p>
