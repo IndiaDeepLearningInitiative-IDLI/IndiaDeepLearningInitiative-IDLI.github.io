@@ -6,9 +6,9 @@ title: GoogleNet Overview Advance - By Auro Tripathy
 
 #### GoogleNet Overview Advance:
 
-Auro Tripathy will explain how GoogleLeNet architecture works and how it was made computationaly efficient compared to previous ImageNet winner AlexNet. It introduced Inception module and used 1x1 convolution for reducing computing complexity. This session will be at advanced level.
+<p style="text-align: justify;"> Auro Tripathy will explain how GoogleLeNet architecture works and how it was made computationaly efficient compared to previous ImageNet winner AlexNet. It introduced Inception module and used 1x1 convolution for reducing computing complexity. This session will be at advanced level.</p>
 
-Auro Tripathy founded ShatterLine Labs (2015) to apply the growing body of knowledge in Neural Networks to real-world machine-vision problems. A practitioner of deep learning techniques, he focuses on object detection applications using convolutional and recurrent nets.
+<p style="text-align: justify;"> Auro Tripathy founded ShatterLine Labs (2015) to apply the growing body of knowledge in Neural Networks to real-world machine-vision problems. A practitioner of deep learning techniques, he focuses on object detection applications using convolutional and recurrent nets.</p>
 
 Material: [Download - Click here!](http://www.slideshare.net/aurot/googlenet-insights)
 
