@@ -12,7 +12,7 @@ title: Introduction to Deep Learning - By Dr. Jacob Minz
 * Where I can use Deep Learning?
 * What is the future of Deep Learning?
 
-Then this introduction video by [Dr. Jacob minz]( https://www.linkedin.com/in/jacob-minz-16762a3/ ) is for you. You will get all your answer in this video. This online session tells you why so many companies investing in Deep Learning, and it also explains you what is basic maths and logic behind Deep Learning algorithm. All this idea of Deep Learning is explained in lecture very briefly with a simple innovative example.
+<p style="text-align: justify;"> Then this introduction video by [Dr. Jacob minz]( https://www.linkedin.com/in/jacob-minz-16762a3/ ) is for you. You will get all your answer in this video. This online session tells you why so many companies investing in Deep Learning, and it also explains you what is basic maths and logic behind Deep Learning algorithm. All this idea of Deep Learning is explained in lecture very briefly with a simple innovative example.</p>
 
 Below is the video of online session lecture.
 
