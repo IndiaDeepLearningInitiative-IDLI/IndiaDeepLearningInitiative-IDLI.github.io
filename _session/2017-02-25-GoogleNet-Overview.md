@@ -14,5 +14,6 @@ Material: [Download - Click here!](http://www.slideshare.net/aurot/googlenet-ins
 
 #### Below is the video on online session:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5il8YKIPUEs" frameborder="0" allowfullscreen></iframe>
 
 Know about speaker more: [Auro Tripathy - Click Here!](https://www.linkedin.com/in/aurotripathy)
