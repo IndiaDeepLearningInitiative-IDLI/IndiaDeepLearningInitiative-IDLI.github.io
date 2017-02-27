@@ -3,6 +3,16 @@ layout: post
 title: upcoming event
 ---
 
+#### Lina=ear Algebra basic for Deep Learning - By Prof. Arhit Mondal
+
+Linear Algebra is the crux of Deep Learning. A good understanding of linear algebra is essential for understanding and working with many machine learning algorithms, especially deep learning algorithms. This session will cover Linear Algebra basics required for Deep Learning.
+
+Prof Arjit Mondal is currently working as Assistant Professor in CSE, IIT Patna. Before joining academics Prof Arjit spent around 3.5 years in EDA industry. Prof Arjit did his phd from IIT KGP. Prof Arjit Mondal's area of research includes CAD for VLSI, Algorithms, Real Time Systems and Deep learning
+
+
+
+## Old:
+
 #### GoogleNet Overview Advance By Auro Tripathy on 25th-Feb-2017
 
 Auro Tripathy will explain how GoogleLeNet architecture works and how it was made computationaly efficient compared to previous ImageNet winner AlexNet. It introduced Inception module and used 1x1 convolution for reducing computing complexity. This session will be at advanced level.
