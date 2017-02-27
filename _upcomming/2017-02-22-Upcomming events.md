@@ -3,7 +3,7 @@ layout: post
 title: upcoming event
 ---
 
-#### Lina=ear Algebra basic for Deep Learning - By Prof. Arhit Mondal
+#### Linear Algebra basic for Deep Learning - By Prof. Arhit Mondal
 
 Linear Algebra is the crux of Deep Learning. A good understanding of linear algebra is essential for understanding and working with many machine learning algorithms, especially deep learning algorithms. This session will cover Linear Algebra basics required for Deep Learning.
 
