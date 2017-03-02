@@ -2,10 +2,10 @@
 title:               IDLI
 tagline:             India Deep Learning Initiative
 description:
-baseurl:            "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
-url:                "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io"
+baseurl:            "http://idli.group"
+url:                "http://idli.group"
 github:          
-url:               "https://github.com/IndiaDeepLearningInitiative-IDLI/IndiaDeepLearningInitiative-IDLI.github.io "
+url:               "http://idli.group"
 author:              "IDLI"
 name:              "IDLI"
 email:             "indiadeeplearning.group@gmail.com"
