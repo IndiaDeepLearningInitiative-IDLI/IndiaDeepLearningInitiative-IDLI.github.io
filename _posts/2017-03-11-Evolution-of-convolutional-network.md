@@ -9,7 +9,8 @@ title: Evolution of convolutional neural networks for image recognition - By Pro
 
 <p style="text-align: justify;">Professor Amit Sethi is a faculty member at Indian Institute of Technology Guwahati, and a visiting scholar at University of Illinois as Chicago. His current interests are computational pathology, deep learning, and non-negative matrix factorization. He also works in video classification and super resolution, and has previously worked in structure from motion and human visual perception. Before joining IIT Guwahati, he worked as a management consultant in ZS Associates' Chicago office, where he worked with big data in the healthcare sector. He obtained his PhD in ECE from University of Illinois at Urbana-Champaign, and BTech in EE from IIT Delhi.</p>
 
-** Below is the video lecture: **
+**Below is the video lecture:**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qQZ6kOSa0Y" frameborder="0" allowfullscreen></iframe>
 
 Prof. [Amit Sethi: Know him about here!](https://www.facebook.com/realamitsethi)
