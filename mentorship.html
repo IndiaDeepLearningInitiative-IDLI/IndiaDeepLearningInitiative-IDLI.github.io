@@ -10,4 +10,14 @@ title: Mentorship
   <h1 style="text-align: center;">Welcome to Mentorship program </h1>
   <h2 style="text-align: center;">By - IDLI : India Deep Learning Initiative</h2>
 </div>  
-<a href="#">Start now!</a>
+{% for mentorship in site.mentorship %}
+  <li>
+    <span> {{ mentorship.date | date: "%B %e, %Y" }} </span>
+      <a href="{{ mentorship.url }}">{{ mentorship.title }}</a>
+  </li>
+  <p style="text-align: justify;">
+    {{ mentorship.content | strip_html | truncate: 350 }} <a href="{{ mentorship.url }}">Read more</a>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ mentorship.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+  </p>
+{% endfor %}
+<h3>Comming soon....</h3>
