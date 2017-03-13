@@ -55,7 +55,10 @@ collections:
      permalink: /hackthaone/:path/
    upcomming:
      output: true
-     permalink: /upcomming/:path/ 
+     permalink: /upcomming/:path/
+   mentorship:
+     output: true
+     permalink: /mentorship/:path/
 
 
 
