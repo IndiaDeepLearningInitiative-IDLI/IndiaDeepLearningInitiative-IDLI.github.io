@@ -3,15 +3,17 @@ layout: post
 title: upcoming event
 ---
 
-#### Evolution of convolutional neural networks for image recognition - By Prof. Amit Sethi - Saturday, March 11 at 7:30 AM PST
+#### Anatomy of Deep Learning Frameworks - Gokul - Saturday, March 18 at 7:30 AM PST
 
-<p style="text-align: justify;">Deep learning frameworks, such as convolutional neural networks (CNNs), have almost completely replaced other machine learning techniques for specific tasks such as image recognition using large training datasets. In this webinar, we will go over how CNNs, their training methods, and hardware evolved since LeNet first appeared in the late 1990's. We will examine the challenges that came along, and some key innovations that helped overcome these challenges. We will also look at a guide on how to get started with CNNs, some common pitfalls, and tips and tricks in training CNNs.</p>
+<p style="text-align: justify;">Almost all current day DL work happens using Deep Learning frameworks. With so many around, it can get confusing what they are all trying to do. In this talk, I will be discussing how these frameworks work under the hood, how they all use the same concepts and how you could roll your own framework if you desire. I will be covering both high-level mathematical concepts as well as low-level implementation details in an accessible way.</p>
 
-<p style="text-align: justify;">Professor Amit Sethi is a faculty member at Indian Institute of Technology Guwahati, and a visiting scholar at University of Illinois as Chicago. His current interests are computational pathology, deep learning, and non-negative matrix factorization. He also works in video classification and super resolution, and has previously worked in structure from motion and human visual perception. Before joining IIT Guwahati, he worked as a management consultant in ZS Associates' Chicago office, where he worked with big data in the healthcare sector. He obtained his PhD in ECE from University of Illinois at Urbana-Champaign, and BTech in EE from IIT Delhi.</p>
+<p style="text-align: justify;">Gokul is currently a Master's student in CS at ETH Zurich, focusing on Machine Learning and Deep Learning. Gokul did hisbachelor's from BITS Pilani. Currently a research assistant in the DS3Lab, his current work revolves around GANs, on how to use them in astronomy as well as methods to train them. Gokul have been a contributor to Theano as well. Gokul is currently looking for internships, if you like his talk and want to hire him, You can find more details about Gokul at :</p> [LinkedIn]( https://www.linkedin.com/in/sgokula/)
 
 
 
 ## Old:
+
+#### [Evolution of convolutional neural networks for image recognition - By Prof. Amit Sethi](http://idli.group/session/2017-03-11-Evolution-of-NL/)
 
 #### [Linear Algebra basic for Deep Learning - By Prof. Arjit Mondal](http://idli.group/session/2017-03-04-Overview-of-linear-algebra/)
 
