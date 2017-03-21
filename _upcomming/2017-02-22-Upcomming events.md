@@ -3,11 +3,11 @@ layout: post
 title: upcoming event
 ---
 
-#### Anatomy of Deep Learning Frameworks - Gokul - Saturday, March 18 at 7:30 AM PST
+#### Deep Learning for Speech Recognition by Dr. Sunayana Sitaram - Saturday, March 25 at 7:30 AM PST
 
-<p style="text-align: justify;">Almost all current day DL work happens using Deep Learning frameworks. With so many around, it can get confusing what they are all trying to do. In this talk, I will be discussing how these frameworks work under the hood, how they all use the same concepts and how you could roll your own framework if you desire. I will be covering both high-level mathematical concepts as well as low-level implementation details in an accessible way.</p>
+<p style="text-align: justify;">We have recently seen a couple of breakthroughs in speech recognition – Microsoft’s systems have reached human parity in transcribing speech and Baidu’s system is said to be 3 times faster than human transcription for typing text messages, and just as accurate as humans. Does this mean that the problem is solved? How did Deep Learning manage to revolutionize the field? What does it take to replicate this success in new languages and domains? In this talk, I will present the problem of Automatic Speech Recognition and talk about the various Machine Learning solutions that have been proposed over the years. We will look at research and results on specific datasets and trace the improvement of speech recognition systems on them. I will also present some state-of-the-art Deep Learning models that are being used for ASR and discuss some open problems in the field.</p>
 
-<p style="text-align: justify;">Gokul is currently a Master's student in CS at ETH Zurich, focusing on Machine Learning and Deep Learning. Gokul did hisbachelor's from BITS Pilani. Currently a research assistant in the DS3Lab, his current work revolves around GANs, on how to use them in astronomy as well as methods to train them. Gokul have been a contributor to Theano as well. Gokul is currently looking for internships, if you like his talk and want to hire him, You can find more details about Gokul at :</p> [LinkedIn]( https://www.linkedin.com/in/sgokula/)
+<p style="text-align: justify;">I am currently a Post Doctoral researcher at Microsoft Research India working on speech and language technologies for multilingual communities. My current focus is on building automatic speech recognizers for code switched speech or mixed-language speech. Previously, I completed my Masters and PhD in the School of Computer Science at Carnegie Mellon University, and my dissertation was on speech synthesis for low resource languages, advised by Prof Alan Black. My research interests span speech and language technologies, machine learning and intelligent agents.</p> [LinkedIn]()
 
 
 
