@@ -8,6 +8,15 @@ title: Download
   <h3>Download resources</h3>
   <hr />
   <br>
-    <p>1) Anatomy of Deep Learning Frameworks - Gokul --> <a href="/data/ppt/anatomy.pdf">PPT - Download here!</a></p>
+  {% for downloads in site.downloads %}
+     <li>
+        <a href="{{ downloads.url }}">{{ downloads.title }}</a>
+     </li>
+      <p style="text-align: justify;">
+           {{ downloads.content}}
+          <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ downloads.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      </p>
+  {% endfor %}
   <br>
+  <hr>
 </div>
