@@ -59,7 +59,9 @@ collections:
    mentorship:
      output: true
      permalink: /mentorship/:path/
-
+   downloads:
+     output: true
+     permalink: /downloads/:path/
 
 
 
