@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computational Pathology: An Introduction - By Dr Neeraj Kumar Vaid
+title: Linear Algebra basic for Deep Learning - By Prof. Arjit Mond
 ---
 
 #### Computational Pathology: An Introduction - Saturday, April 1 at 9:00 PM IST
