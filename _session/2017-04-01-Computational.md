@@ -9,5 +9,4 @@ title: Computational Pathology - An Introduction - By Dr Neeraj Kumar Vaid
 
 #### Below is the video on online session:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XRX-5LNjXEk" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://www.youtube.com/watch?v=XRX-5LNjXEk"> Link of online session : click here!</a></p>
