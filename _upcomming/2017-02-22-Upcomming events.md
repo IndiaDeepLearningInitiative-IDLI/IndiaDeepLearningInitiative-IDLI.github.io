@@ -3,13 +3,15 @@ layout: post
 title: upcoming event
 ---
 
-#### Computer Vision for Face Recognition By - Dr. Satya Mallick - Saturday, April 8 at 10:00 PM IST
+#### Language Understanding: The hardest piece of the AI puzzle by Subrat Kumar Panda - Saturday, April 15 at 10:00 AM IST
 
 
-<p style="text-align: justify;">Dr. Satya Mallick is the founder of Big Vision LLC, a San Diego, California based company that specializes in computer vision, machine learning, deep learning and artificial intelligence consulting services and products. He is also the principal author of a popular computer vision blog <a href="http://www.learnopencv.com/"> Click here! </a></p>
-<p style="text-align: justify;">Dr. Mallick is an accomplished computer vision and machine learning scientist and engineer. He has worked on a variety of problems including face processing ( detection, recognition ), object recognition using deep learning, computational photography, augmented reality, document analysis, 3D reconstruction, medical image processing, and 3D cryo-electron microscopy to name a few. He has published several research papers in top notch conferences and journals.</p>
-
-[Linkedin](https://www.linkedin.com/in/satyamallick/)
+<p style="text-align: justify;">Dr. Monojit Choudhury is a researcher in Microsoft Research Lab India. He holds a B.Tech and a PhD degree in Computer Science and Engineering from IIT Kharagpur. Monojit’s research interest lies in the intersection of cognition and computation. He has been working on various aspects of NLP, IR, Language and Music evolution, and Social media analysis. Currently, Monojit is working on computational models of code-switching and socio-culturally aware AI systems.
+</p>
+<p style="text-align: justify;">One of the foundational pillars of Artificial Intelligence is Natural (or human) Language Processing (NLP). Language not only provides a medium for intuitive and natural interaction between humans and machines, but also helps us understand and subsequently design systems that can represent knowledge and carry out inferences on knowledge bases, i.e., "can think". NLP was one of the first sub-fields of AI, and yet, even today, as machines get smarter and outperform humans on playing board games, answering questions, recognizing objects from images and driving cars, language understanding remains one of the hardest problems of AI. Albeit NLP has progressed significantly over the past half a century, but it is a long way (at least 3 more decades, according to some predictions) before AI systems outperform humans on language related tasks.
+</p>
+<p style="text-align: justify;">On the other hand, language is also central to our social identity. Language defines communities and countries. Availability of NLP technologies in a language would eventually decide whether a language lives or dies, and how fast a community progresses socio-economically.</p>
+<p style="text-align: justify;">In this talk, I will discuss some of the fundamental features of human language that makes NLP one of the hardest pieces of the AI puzzle. I will also talk about the need as well as the current status of NLP for India, which has its unique and interesting challenges, thanks to its extreme multilingualism.</p>
 
 ## Old:
 
