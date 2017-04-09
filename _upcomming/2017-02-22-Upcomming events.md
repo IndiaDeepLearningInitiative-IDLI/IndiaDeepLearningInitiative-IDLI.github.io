@@ -15,6 +15,8 @@ title: upcoming event
 
 ## Old:
 
+#### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-08-CVML/)
+
 #### [Computational Pathology - An Introduction - By Dr Neeraj Kumar Vaid](http://idli.group/session/2017-04-01-Computational/)
 
 #### [Deep Learning for Speech Recognition by Dr. Sunayana Sitaram]( http://idli.group/session/2017-03-25-dl-avr/ )
