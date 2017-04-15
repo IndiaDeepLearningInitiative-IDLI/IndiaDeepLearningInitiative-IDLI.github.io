@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Language Understanding: The hardest piece of the AI puzzle by Subrat Kumar Panda
+title: Computer Vision for Face Recognition By - Dr. Satya Mallick
 ---
+
+#### Computer Vision for Face Recognition By - Dr. Satya Mallick
 
 <p style="text-align: justify;">Dr. Monojit Choudhury is a researcher in Microsoft Research Lab India. He holds a B.Tech and a PhD degree in Computer Science and Engineering from IIT Kharagpur. Monojit’s research interest lies in the intersection of cognition and computation. He has been working on various aspects of NLP, IR, Language and Music evolution, and Social media analysis. Currently, Monojit is working on computational models of code-switching and socio-culturally aware AI systems.
 </p>
