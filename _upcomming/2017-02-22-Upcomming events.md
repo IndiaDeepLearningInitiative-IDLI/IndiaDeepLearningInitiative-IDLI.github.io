@@ -3,17 +3,17 @@ layout: post
 title: upcoming event
 ---
 
-#### Language Understanding: The hardest piece of the AI puzzle by Subrat Kumar Panda - Saturday, April 15 at 10:00 AM IST
+#### How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy - Saturday, April 22 at 09:00 PM IST
 
 
-<p style="text-align: justify;">Dr. Monojit Choudhury is a researcher in Microsoft Research Lab India. He holds a B.Tech and a PhD degree in Computer Science and Engineering from IIT Kharagpur. Monojit’s research interest lies in the intersection of cognition and computation. He has been working on various aspects of NLP, IR, Language and Music evolution, and Social media analysis. Currently, Monojit is working on computational models of code-switching and socio-culturally aware AI systems.
+<p style="text-align: justify;">Locating objects in images (a.k.a., detection) quickly and efficiently enables object tracking and counting applications on embedded visual sensors (fixed and mobile). By 2012, progress on techniques for detecting objects in images – a topic of perennial interest in computer vision – had plateaued, and techniques based on histogram of oriented gradients (HOG) were state of the art. Soon, though, convolutional neural networks (CNNs), in addition to classifying objects, were also beginning to become effective at simultaneously detecting objects. Research in CNN-based object detection was jump-started by the groundbreaking region-based CNN (R-CNN). We’ll follow the evolution of neural network algorithms for object detection, starting with R-CNN and proceeding to Fast R-CNN, Faster R-CNN, DzYou Only Look Oncedz (YOLO), and up to the latest Single Shot Multibox detector. In this talk, we’ll examine the successive innovations in performance and accuracy embodied in these algorithms – which is a good way to understand the insights behind effective neural-network-based object localization.
 </p>
-<p style="text-align: justify;">One of the foundational pillars of Artificial Intelligence is Natural (or human) Language Processing (NLP). Language not only provides a medium for intuitive and natural interaction between humans and machines, but also helps us understand and subsequently design systems that can represent knowledge and carry out inferences on knowledge bases, i.e., "can think". NLP was one of the first sub-fields of AI, and yet, even today, as machines get smarter and outperform humans on playing board games, answering questions, recognizing objects from images and driving cars, language understanding remains one of the hardest problems of AI. Albeit NLP has progressed significantly over the past half a century, but it is a long way (at least 3 more decades, according to some predictions) before AI systems outperform humans on language related tasks.
+<p style="text-align: justify;">Auro Tripathy founded ShatterLine Labs (2015) to apply the growing body of knowledge in Neural Networks to real-world machine-vision problems. A practitioner of deep learning techniques, he focuses on object detection applications using convolutional and recurrent nets.
 </p>
-<p style="text-align: justify;">On the other hand, language is also central to our social identity. Language defines communities and countries. Availability of NLP technologies in a language would eventually decide whether a language lives or dies, and how fast a community progresses socio-economically.</p>
-<p style="text-align: justify;">In this talk, I will discuss some of the fundamental features of human language that makes NLP one of the hardest pieces of the AI puzzle. I will also talk about the need as well as the current status of NLP for India, which has its unique and interesting challenges, thanks to its extreme multilingualism.</p>
 
 ## Old:
+
+#### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-15-Language-understanding/)
 
 #### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-08-CVML/)
 
