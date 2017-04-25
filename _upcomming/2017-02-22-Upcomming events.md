@@ -3,15 +3,21 @@ layout: post
 title: upcoming event
 ---
 
-#### How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy - Saturday, April 22 at 09:00 PM IST
+#### An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara - Saturday, April 29 at 09:00 PM IST
 
 
-<p style="text-align: justify;">Locating objects in images (a.k.a., detection) quickly and efficiently enables object tracking and counting applications on embedded visual sensors (fixed and mobile). By 2012, progress on techniques for detecting objects in images – a topic of perennial interest in computer vision – had plateaued, and techniques based on histogram of oriented gradients (HOG) were state of the art. Soon, though, convolutional neural networks (CNNs), in addition to classifying objects, were also beginning to become effective at simultaneously detecting objects. Research in CNN-based object detection was jump-started by the groundbreaking region-based CNN (R-CNN). We’ll follow the evolution of neural network algorithms for object detection, starting with R-CNN and proceeding to Fast R-CNN, Faster R-CNN, DzYou Only Look Oncedz (YOLO), and up to the latest Single Shot Multibox detector. In this talk, we’ll examine the successive innovations in performance and accuracy embodied in these algorithms – which is a good way to understand the insights behind effective neural-network-based object localization.
+<p style="text-align: justify;">Reinforcement Learning (RL) is a genre of Machine Learning in which an agent learns to choose optimal actions in different states in order to reach its specified goal, solely by interacting with the environment through trial and error. Unlike supervised learning, the agent does not get examples of "correct" actions in given states as ground truth. Instead, it has to use feedback from the environment (which can be sparse and delayed) to improve its policy over time. The formulation of the RL problem closely resembles the way in which human beings learn to act in different situations. Hence it is often considered the gateway to achieving the goal of Artificial General Intelligence.
 </p>
-<p style="text-align: justify;">Auro Tripathy founded ShatterLine Labs (2015) to apply the growing body of knowledge in Neural Networks to real-world machine-vision problems. A practitioner of deep learning techniques, he focuses on object detection applications using convolutional and recurrent nets.
+<p style="text-align: justify;">The motivation of this talk is to introduce the audience to key theoretical concepts like formulation of the RL problem using Markov Decision Process (MDP) and solution of MDP using dynamic programming and policy gradient based algorithms. State-of-the-art deep reinforcement learning algorithms will also be covered. A case study of the application of reinforcement learning in robotics will also be presented.
+</p>
+</p>
+<p style="text-align: justify;">Anirban Santara is a Google India Ph.D. Fellow in the Department of Computer Science and Engineering at IIT Kharagpur. He has three years of experience in Deep Learning applications in diverse areas like Healthcare, Aerospace, Industrial Process Optimization, and Automotive. His current area of focus is Reinforcement Learning for Autonomous Driving.
+<p style="text-align: justify;"><a href="http://santara.github.io/">github link: click her!</a>
 </p>
 
 ## Old:
+
+#### [ How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy](http://idli.group/session/2017-04-22-how-cnn-works/)
 
 #### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-15-Language-understanding/)
 
