@@ -11,11 +11,11 @@ title: upcoming event
 <p style="text-align: justify;">The motivation of this talk is to introduce the audience to key theoretical concepts like formulation of the RL problem using Markov Decision Process (MDP) and solution of MDP using dynamic programming and policy gradient based algorithms. State-of-the-art deep reinforcement learning algorithms will also be covered. A case study of the application of reinforcement learning in robotics will also be presented.
 </p>
 </p>
-<p style="text-align: justify;">Anirban Santara is a Google India Ph.D. Fellow in the Department of Computer Science and Engineering at IIT Kharagpur. He has three years of experience in Deep Learning applications in diverse areas like Healthcare, Aerospace, Industrial Process Optimization, and Automotive. His current area of focus is Reinforcement Learning for Autonomous Driving.
-<p style="text-align: justify;"><a href="http://santara.github.io/">github link: click her!</a>
-</p>
+<p style="text-align: justify;">Anirban Santara is a Google India Ph.D. Fellow in the Department of Computer Science and Engineering at IIT Kharagpur. He has three years of experience in Deep Learning applications in diverse areas like Healthcare, Aerospace, Industrial Process Optimization, and Automotive. His current area of focus is Reinforcement Learning for Autonomous Driving.</p>
 
-## Old:
+### Old:
+---------------------------------------------------------------------------------------------------------------------------
+
 
 #### [How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy ](http://idli.group/session/2017-04-22-how-cnn-works/)
 
