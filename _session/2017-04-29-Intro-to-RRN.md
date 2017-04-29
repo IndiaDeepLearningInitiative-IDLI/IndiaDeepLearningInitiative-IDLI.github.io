@@ -1,6 +1,6 @@
 ---
 layout: post
-title: upcoming event
+title: An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara
 ---
 
 #### An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara - Saturday, April 29 at 09:00 PM IST
@@ -12,27 +12,9 @@ title: upcoming event
 </p>
 </p>
 <p style="text-align: justify;">Anirban Santara is a Google India Ph.D. Fellow in the Department of Computer Science and Engineering at IIT Kharagpur. He has three years of experience in Deep Learning applications in diverse areas like Healthcare, Aerospace, Industrial Process Optimization, and Automotive. His current area of focus is Reinforcement Learning for Autonomous Driving.
-<p style="text-align: justify;"><a href="http://santara.github.io/">github link: click her!</a>
+<p style="text-align: justify;"><a href="https://www.linkedin.com/in/anirbansantara/">LinkedIn: click her!</a>
 </p>
 
-## Old:
+Below is the video of online session lecture.
 
-#### [How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy ](http://idli.group/session/2017-04-22-how-cnn-works/)
-
-#### [ How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy](http://idli.group/session/2017-04-22-how-cnn-works/)
-
-#### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-15-Language-understanding/)
-
-#### [Computer Vision for Face Recognition By - Dr. Satya Mallick ](http://idli.group/session/2017-04-08-CVML/)
-
-#### [Computational Pathology - An Introduction - By Dr Neeraj Kumar Vaid](http://idli.group/session/2017-04-01-Computational/)
-
-#### [Deep Learning for Speech Recognition by Dr. Sunayana Sitaram]( http://idli.group/session/2017-03-25-dl-avr/ )
-
-#### [Anatomy of Deep Learning Frameworks - Gokul](http://idli.group/session/2017-03-18-Anatomy-of-DL/)
-
-#### [Evolution of convolutional neural networks for image recognition - By Prof. Amit Sethi](http://idli.group/session/2017-03-11-Evolution-of-NL/)
-
-#### [Linear Algebra basic for Deep Learning - By Prof. Arjit Mondal](http://idli.group/session/2017-03-04-Overview-of-linear-algebra/)
-
-#### [GoogleNet Overview Advance By Auro Tripathy on 25th-Feb-2017](https://indiadeeplearninginitiative-idli.github.io/session/2017-02-25-GoogleNet-Overview/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iy1O_XY96uU" frameborder="0" allowfullscreen></iframe>
