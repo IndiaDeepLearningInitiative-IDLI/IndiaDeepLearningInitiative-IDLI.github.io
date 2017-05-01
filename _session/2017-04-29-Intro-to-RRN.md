@@ -17,4 +17,4 @@ title: An Introduction to Reinforcement Learning the doors to AGI By Anirban San
 
 Below is the video of online session lecture.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iy1O_XY96uU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WoTmVYZT7y8" frameborder="0" allowfullscreen></iframe>
