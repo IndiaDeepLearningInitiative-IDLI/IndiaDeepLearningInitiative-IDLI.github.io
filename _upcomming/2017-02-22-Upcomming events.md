@@ -3,19 +3,21 @@ layout: post
 title: upcoming event
 ---
 
-#### An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara - Saturday, April 29 at 09:00 PM IST
+#### Seq2Seq for Predicting PowerTheft By Fenil Doshi and his team - Saturday, May 7 at 09:00 PM IST
 
 
-<p style="text-align: justify;">Reinforcement Learning (RL) is a genre of Machine Learning in which an agent learns to choose optimal actions in different states in order to reach its specified goal, solely by interacting with the environment through trial and error. Unlike supervised learning, the agent does not get examples of "correct" actions in given states as ground truth. Instead, it has to use feedback from the environment (which can be sparse and delayed) to improve its policy over time. The formulation of the RL problem closely resembles the way in which human beings learn to act in different situations. Hence it is often considered the gateway to achieving the goal of Artificial General Intelligence.
+<p style="text-align: justify;">Fenil Doshi and his team from SRM Nexttech lab developed a model to predict powertheft to win 1st prize in Smart India Hackathon. In this session, they will give an overview about their Nexttech lab, their motivation to work on powertheft problem, their dataset, their approach and their results.
 </p>
-<p style="text-align: justify;">The motivation of this talk is to introduce the audience to key theoretical concepts like formulation of the RL problem using Markov Decision Process (MDP) and solution of MDP using dynamic programming and policy gradient based algorithms. State-of-the-art deep reinforcement learning algorithms will also be covered. A case study of the application of reinforcement learning in robotics will also be presented.
+<p style="text-align: justify;">
 </p>
+<p style="text-align: justify;">
 </p>
-<p style="text-align: justify;">Anirban Santara is a Google India Ph.D. Fellow in the Department of Computer Science and Engineering at IIT Kharagpur. He has three years of experience in Deep Learning applications in diverse areas like Healthcare, Aerospace, Industrial Process Optimization, and Automotive. His current area of focus is Reinforcement Learning for Autonomous Driving.</p>
 
 ### Old:
 ---------------------------------------------------------------------------------------------------------------------------
 
+
+#### [An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara](http://idli.group/session/2017-04-29-Intro-to-RRN/)
 
 #### [How CNNs Localize Objects with Improving Precision and Speed by Auro Tripathy ](http://idli.group/session/2017-04-22-how-cnn-works/)
 
