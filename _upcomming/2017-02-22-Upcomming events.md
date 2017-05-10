@@ -3,12 +3,12 @@ layout: post
 title: upcoming event
 ---
 
-#### Seq2Seq for Predicting PowerTheft By Fenil Doshi and his team - Saturday, May 7 at 09:00 PM IST
+#### DeepLearning as OCR for decoding Indus Valley Manuscripts By Satish Palaniappan - Saturday, May 13 at 09:00 PM IST
 
 
-<p style="text-align: justify;">Fenil Doshi and his team from SRM Nexttech lab developed a model to predict powertheft to win 1st prize in Smart India Hackathon. In this session, they will give an overview about their Nexttech lab, their motivation to work on powertheft problem, their dataset, their approach and their results.
+<p style="text-align: justify;">Of all the ancient inscriptions, the Indus script has long challenged epigraphists, inspite of the various advances in computing, computational epigraphy has not yet been applied to its fullest potential. The main bottleneck here is the lack of data that has to manually compiled into a corpus for the computers to read, this needs expert level knowledge and several months of effort, but Satish Palaniappan and Ronojoy Adhikari applied deep learning to reduce this into just few seconds and with no experts. They developed an OCR engine for the Indus script based on a deep learnt pipeline architecture to do this job for them.
 </p>
-<p style="text-align: justify;">
+<p style="text-align: justify;">Satish Palaniappan holds Bachelor's in Computer Science Engineering from SSN college of Engineering. He has interned at Language Technology Institute in CMU and in IMSC. He currently a Machine Learning engineer in Qube Cinema Technologies.
 </p>
 <p style="text-align: justify;">
 </p>
@@ -16,6 +16,8 @@ title: upcoming event
 ### Old:
 ---------------------------------------------------------------------------------------------------------------------------
 
+
+#### [Seq2Seq for Predicting PowerTheft By Fenil Doshi and his team](http://idli.group/session/2017-05-6-Seq2-Seq/)
 
 #### [An Introduction to Reinforcement Learning the doors to AGI By Anirban Santara](http://idli.group/session/2017-04-29-Intro-to-RRN/)
 
