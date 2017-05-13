@@ -282,9 +282,11 @@ li.menu {
 ul.menu ul.menu {
    position: absolute;
     display: none;
+    background-color: ff5733;
 }
 li.menu:hover ul.menu {
     display: block;
+    background-color: #f7dc6f;
 }
 
 .social-icons a {
