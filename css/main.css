@@ -280,7 +280,8 @@ li.menu {
 
 }
 ul.menu ul.menu {
-   position: absolute;
+   /*position: absolute;*/
+    position: relative;
     display: none;
     background-color: #ff5733;
 }
