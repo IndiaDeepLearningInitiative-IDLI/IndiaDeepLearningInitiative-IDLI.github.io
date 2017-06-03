@@ -3,15 +3,17 @@ layout: post
 title: upcoming event
 ---
 
-#### Trends of AI Research in India - By Neel Shah - Saturday, May 20 at 09:30 PM IST
+#### Adapting Deep Neural Networks between Domains: from computed retinal angiography to digital pathology to surgical informatics - By Debdoot Sheet - June 4 at 09:30 PM IST
 
 
-<p style="text-align: justify;">The goal of this talk is to showcase the results of a recently conducted data-driven study aimed at identifying trends in ongoing research at Indian universities and companies in the areas of AI, ML and DL. To put this in a global perspective, the data will be compared with their international counterparts and some surprising differences will be revealed. The talk will also provide a quick glimpse of the top Indian authors in the areas of AI, ML and DL and their internationally acclaimed research work.
+<p style="text-align: justify;">The challenge of trying to use a deep neural network trained on one domain for an application in another domain is quite well known to us, and the challenges are quite intriguing. Most of us have tried using ImageNet pertained models of GoogLeNet / VGGNet / AlexNet / ResNet / DenseNet for our work, but the challenge is can they directly be used for grayscale images, color images represented in space other than RGB or if their appearance is very different from natural images. This talk would provide an insight to adapting a pertained deep neural network easily across domains, using techniques ranging from partial re-training, to exploiting dropouts. Showcase examples would include it being leveraged for digital retinal angiography where domain adaptation has demonstrated superior performance than training the network from scratch on the target domain (ACPR 2015), in digital pathology where appearance is very different than in natural images (ISBI 2017), and for surgical informatics through video analytics where it has been coupled with an LSTM to achieve adaptation (CVPR 2017).
 </p>
-<p style="text-align: justify;">Neel Shah graduated with B.E. and M.E. in Computer Science and Engineering from Parul Institute of Engineering and Technology, Vadodara, India in 2017. He is looking forward to join a Ph.D. program at Lakehead University, Thunderbay, Canada. He is currently working as a full-stack developer intern at datalog.ai. He has over two years of experience in data-analytics in the agriculture and dairy industries.
+<p style="text-align: justify;">Debdoot Sheet is an Assistant Professor of Electrical Engineering and Principal Investigator of the Kharagpur Learning, Imaging and Visualisation Group at the Indian Institute of Technology Kharagpur since 2014. His research focus is machine learning, visual analytics, medical imaging, augmented and mixed reality, computing system design. He is an Editor of IEEE Pulse and loves speaking out on his research findings.
 </p>
 <p style="text-align: justify;">
 </p>
+
+Know about speaker more [ here ](http://facweb.iitkgp.ernet.in/)
 
 ### Old:
 ---------------------------------------------------------------------------------------------------------------------------
