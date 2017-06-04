@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Adapting Deep Neural Networks between Domains: from computed retinal angiography to digital pathology to surgical informatics - By Debdoot Sheet
+title: Adapting Deep Neural Networks between Domains - By Debdoot Sheet
 ---
+
 
 #### Adapting Deep Neural Networks between Domains: from computed retinal angiography to digital pathology to surgical informatics
 
