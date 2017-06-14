@@ -12,10 +12,9 @@ title: upcoming event
 </p>
 <p style="text-align: justify;">
 </p>
-<p style="text-align: justify;">
+
 About author: [linkedin](https://www.linkedin.com/in/subratpanda/)
 [Facebook](https://www.facebook.com/subratpanda)
-</p>
 
 
 ### Old:
