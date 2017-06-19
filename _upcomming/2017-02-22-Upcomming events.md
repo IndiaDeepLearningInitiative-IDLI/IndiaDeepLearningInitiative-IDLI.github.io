@@ -3,12 +3,12 @@ layout: post
 title: upcoming event
 ---
 
-#### Why Deep Learning Works ? by Subrat - June 18 at 09:30 PM IST
+#### Opinionated GANs by Nishant Sinha - June 24 at 09:30 PM IST
 
 
-<p style="text-align: justify;">As a part of this talk, which will be at the edge of Theory and Practical application, I will try to help understand why Deep Learning as a methodology works. And the limitations and perhaps the short comings of DL.
+<p style="text-align: justify;">Richard Feynman said “What I cannot create, I do not understand”. Given a domain of objects, say images, generative models try to ‘understand’ the domain well enough to be able to ‘create’ different objects from the domain, on their own or based on instructions. Generative adversarial networks (GANs) are the current hot favorites for the generative task, in part because Yann LeCun admitted that 'Adversarial training is the coolest thing since sliced bread.’ In this talk, we will try to overview the theory, practice and the hype around GANs and dissect the games GANs play.
 </p>
-<p style="text-align: justify;">Speaker Bio: Subrat is currently working as a Principal Architect with Capillary Technologies where he is working on AI based products in the Retail domain. Prior to this he worked with a bay area based food tech startup, [Taro](www.tarobites.com). Before this he worked as a performance architect with Nvidia and as a post and pre silicon verification engineer with IBM power servers. He has completed by his BTech(2002) and PhD(2008) in Computer Science from IIT Kharagpur. He is also a Co-Founder of IDLI. He has multiple patents and publications.
+<p style="text-align: justify;">Nishant Sinha is a Computer Science Researcher, Consultant and Mentor at [Kena Labs](http://www.kenalabs.com/). He is interested in building AI systems and solutions spanning textual, vision and speech modes, based on deep learning and logical reasoning. Previously, he held research positions at IBM Research and NEC Labs. He obtained his Ph.D. from Carnegie Mellon and B. Tech. from IIT Kharagpur.
 </p>
 <p style="text-align: justify;">
 </p>
